@@ -1,0 +1,5 @@
+proxy = http://10.172.0.7:8082
+
+rejectUnauthorized=false
+
+registryURL=http://api.typings.org/
